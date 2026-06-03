@@ -3,6 +3,7 @@ import HeroSection from "./components/HeroSection";
 import Project from "./components/Project";
 import Education from "./components/Education";
 import Educardpage from "./components/Educardpage";
+import Skills from "./components/Skills";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Educardpage/>
       <Project />
       <Education />
+      <Skills/>
       
 
       

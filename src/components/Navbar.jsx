@@ -13,8 +13,8 @@ const Navbar = () => {
         <a href="#" className="hover:text-[#59c3e6] transition-colors duration-300">about</a>
         <a href="#" className="hover:text-[#59c3e6] transition-colors duration-300">education</a>
         <a href="#" className="hover:text-[#59c3e6] transition-colors duration-300">projects</a>
-        <a href="#" className="hover:text-[#59c3e6] transition-colors duration-300">blog</a>
-        <a href="#" className="hover:text-[#59c3e6] transition-colors duration-300">contact</a>
+        <a href="#" className="hover:text-[#59c3e6] transition-colors duration-300">Experience</a>
+        <a href="#" className="hover:text-[#59c3e6] transition-colors duration-300">Skills</a>
       </div>
 
       {/* Icons */}
